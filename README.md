@@ -1,0 +1,2 @@
+# A Rust based wordle game app
+I am learning Rust and have recently also got on the wordle train, so I wanted to learn Rust by developing this game. The idea is to have it be installable on the command line, and show all the colors etc. To begin with, I will be using [tabatkins/wordle-list](https://github.com/tabatkins/wordle-list). Later I want to use any dictionary crate to ask the use what word length they want to use and generate words from there. 
